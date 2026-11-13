@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#203e37">
+  <meta name="description" content="A personal field guide to Gary van Warmerdam's Self-Mastery I course. Study every week, explore the sources, and put the practice into daily life.">
+  <title>Self-Mastery I · Field Guide</title>
+  <link rel="icon" href="mark.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="site-header">
+    <a class="brand" href="#home" aria-label="Self-Mastery I home"><img src="mark.svg" width="34" height="34" alt=""><span>SELF-MASTERY <b>I</b><small>THE FIELD GUIDE</small></span></a>
+    <nav aria-label="Main"><a href="#home">The course</a><a href="#notebook">My notebook <span class="note-dot" hidden></span></a><button class="icon-button" id="search-open" aria-label="Search the course"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg></button></nav>
+  </header>
+  <main id="main" tabindex="-1"><div class="loading">Opening your field guide…</div></main>
+  <footer class="site-footer"><div><strong>A practice, not a performance.</strong><p>Study companion to Gary van Warmerdam’s Self-Mastery I.</p></div><p>Course-based guides are paraphrases. Original handouts and timestamped transcripts are available in every week. Automatic transcripts may contain errors.<br><a href="#about">About this guide & your notes</a></p></footer>
+  <dialog id="search-dialog" aria-labelledby="search-title"><div class="dialog-head"><h2 id="search-title">Find a concept or a week</h2><button class="icon-button" data-close="search-dialog" aria-label="Close search">×</button></div><label class="sr-only" for="course-search">Search course</label><input id="course-search" type="search" placeholder="Try attention, forgiveness, or beliefs…" autocomplete="off"><div id="search-results" aria-live="polite"></div></dialog>
+  <div id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>

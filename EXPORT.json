@@ -1,0 +1,15 @@
+{
+  "app": "Self-Mastery I - Field Guide",
+  "exported_on": "2026-11-12",
+  "published_source_commit": "c64c90c072d719b3af56e6f82916319953950ae6",
+  "published_version": 2,
+  "runtime": "Static HTML/CSS/JavaScript, JSON, and PDF",
+  "tooling": "Python 3.8+ standard library; no external packages",
+  "published_dist_files": 61,
+  "dist_matches_published_byte_for_byte": true,
+  "source_code": "src/",
+  "editable_guides": "content/",
+  "pdf_assets": "assets/readers/",
+  "publish_directory": "dist/",
+  "original_files_unchanged": true
+}

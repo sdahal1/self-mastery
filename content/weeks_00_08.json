@@ -1,0 +1,1944 @@
+[
+  {
+    "id": "00",
+    "title": "Introduction",
+    "eyebrow": "Learn through repeated experience",
+    "overview": "Self-Mastery I is presented as a course in developing skills, rather than collecting explanations. Gary asks you to notice your attention, perspective, thoughts, emotions, body posture, and what he calls personal power: the conviction you invest in your interpretations. Early exercises work on small, ordinary reactions so later work has a foundation. The introductory material also explains why resistance, forgetting, and delayed awareness are part of the learning process. Begin by choosing a personally meaningful direction and a repeatable place for practice. You do not need to master an exercise before exploring the next one; the skills are intended to strengthen each other over time.",
+    "outcomes": [
+      "Explain why reading and practicing are different kinds of learning.",
+      "Name the aspects of experience the course asks you to observe.",
+      "Choose a realistic practice opportunity and a personal learning intention."
+    ],
+    "concepts": [
+      {
+        "title": "A course in skills",
+        "explanation": "The introduction distinguishes knowing an idea from being able to use it in a live situation. You can understand the instruction to notice your attention while still forgetting it during a busy day. Repetition is therefore the work, not evidence that you failed to understand. The space between lessons was designed for trying the practices in ordinary life. This site makes every week available, but the course’s original pacing rationale still matters: allow experience to accompany information.",
+        "sourceIds": [
+          "SM1-003"
+        ]
+      },
+      {
+        "title": "Six things to notice",
+        "explanation": "Gary directs attention toward thoughts, emotions, body posture, perspective, attention itself, and personal power. These are connected but not interchangeable. What you are thinking about differs from the attitude through which you view it; a bodily contraction differs from the sentence you tell yourself. The course’s language of personal power refers to the force of belief or conviction behind interpretations. At first simply distinguish these aspects in a recent event without trying to explain or change everything.",
+        "sourceIds": [
+          "SM1-004"
+        ]
+      },
+      {
+        "title": "Retrospective awareness counts",
+        "explanation": "You may first notice a reaction only while writing about it later. The introduction explicitly treats that as useful learning. Looking back lets you observe details you missed in the moment, and the course aims to make this noticing more available during future situations. Avoid making real-time awareness the entry requirement for practicing awareness. A useful study question is what you can see now that you could not see while the event was unfolding.",
+        "sourceIds": [
+          "SM1-004"
+        ]
+      },
+      {
+        "title": "Small practices prepare larger changes",
+        "explanation": "The course begins with manageable exercises because a strong emotional reaction may require several skills at once. Learning to move attention, question a thought, or shift perspective in a small situation develops the parts of that larger ability. Gary cautions against the urgency that demands a dramatic result immediately and then judges slow progress. His prediction that practice can produce larger changes is a teaching rationale, not a deadline or guarantee for your own experience.",
+        "sourceIds": [
+          "SM1-003",
+          "SM1-004"
+        ]
+      },
+      {
+        "title": "Resistance becomes material",
+        "explanation": "Boredom, postponement, doubt, and criticism may appear when an exercise interrupts a familiar habit. The introduction encourages noticing those responses and eventually applying the practices to them. This does not mean every concern is invalid or that you must force yourself through discomfort. It means the reaction to learning is itself something you can observe. A concrete sentence about what interrupted practice is more useful than a global verdict about being disciplined or undisciplined.",
+        "sourceIds": [
+          "SM1-003",
+          "SM1-004"
+        ]
+      }
+    ],
+    "visual": {
+      "title": "From information to usable skill",
+      "intro": "A study illustration of the course’s learning framework.",
+      "steps": [
+        {
+          "label": "Understand",
+          "detail": "Read or listen closely enough to know what the practice asks."
+        },
+        {
+          "label": "Try",
+          "detail": "Use one small exercise in an ordinary situation."
+        },
+        {
+          "label": "Notice",
+          "detail": "Observe thoughts, feelings, posture, attention, and perspective."
+        },
+        {
+          "label": "Review",
+          "detail": "Write about what happened, including what you noticed later."
+        },
+        {
+          "label": "Repeat",
+          "detail": "Let repeated attempts inform the next practice."
+        }
+      ],
+      "takeaway": "Knowing the instruction starts the process; repeated experience develops the skill."
+    },
+    "practice": {
+      "title": "Set your intention and make room for practice",
+      "sourceIds": [
+        "SM1-003",
+        "SM1-004"
+      ],
+      "cadence": "The introduction recommends regular practice and deciding in advance when you will practice the following day. It does not prescribe one daily duration for the entire course.",
+      "steps": [
+        {
+          "title": "Read the orientation",
+          "body": "Read the introduction and distinguish its practice guidance from historical access and email details. Lessons in this library are available now; the original time gating was intended to protect practice time."
+        },
+        {
+          "title": "Write a personal direction",
+          "body": "List what you want to understand or change. Keep these as your intentions rather than promised outcomes. Ask how greater awareness of attention, perspective, emotion, or conviction might support that direction."
+        },
+        {
+          "title": "Choose a repeatable opportunity",
+          "body": "Decide when tomorrow’s practice will fit. The course suggests making this as predictable as familiar daily routines, so you do not have to rediscover a time late at night."
+        },
+        {
+          "title": "Start with an ordinary experience",
+          "body": "Briefly recall something from today. Name a thought, an emotion, a bodily sensation or posture, where attention went, and the perspective involved. This is a study adaptation of the introduction’s observation targets."
+        },
+        {
+          "title": "Record resistance accurately",
+          "body": "If your mind demands faster results, predicts failure, or wants more information before doing anything, note the actual thought. Treat it as information for later lessons rather than a conclusion about yourself."
+        },
+        {
+          "title": "Carry practice forward",
+          "body": "Begin Week 1 and return to earlier exercises as later skills develop. Do not require flawless performance before continuing, and do not treat finishing a page as completing the practice."
+        }
+      ],
+      "prompts": [
+        "What do I want to be more able to notice or choose in daily life?",
+        "What specific opportunity will I use for practice tomorrow?",
+        "In one recent moment, where was my attention and from what perspective was I looking?",
+        "What expectation about progress might make learning harder?"
+      ],
+      "obstacles": [
+        {
+          "title": "I want the next insight immediately",
+          "response": "The introduction asks you to connect small practices to your larger intention and to allow time for integration. Repeated practice is purposeful, even when the instruction is already familiar."
+        },
+        {
+          "title": "I only noticed after the event",
+          "response": "The orientation explicitly values reflective noticing. Write what you now see; that is part of developing awareness."
+        },
+        {
+          "title": "I missed a day",
+          "response": "Choose the next concrete practice opportunity. The introduction’s scheduling suggestion is more actionable than arguing with a critical story about the missed day."
+        }
+      ]
+    },
+    "stories": [
+      {
+        "title": "The first day at the gym",
+        "kind": "Metaphor",
+        "summary": "Gary compares approaching inner change to arriving at a gym and immediately trying to bench-press 300 pounds. Such a beginning sets up an avoidable struggle. Training begins with manageable weights and many repetitions, gradually building capacity. He applies the analogy to beliefs and emotional reactions: practice with small ones before expecting to change the most powerful patterns. The image also challenges a common measure of success. A small exercise is not insignificant simply because the desired life change is large. Its value lies in developing an ability that can be used again.",
+        "lesson": "Choose a workable repetition rather than using the size of your goal as today’s performance demand.",
+        "sourceId": "SM1-003",
+        "locator": "Original pages 1–2"
+      },
+      {
+        "title": "Listening like a musician",
+        "kind": "Metaphor",
+        "summary": "The second introductory handout compares awareness to a musician listening for individual instruments and noticing how their sounds work together or cancel each other. A listener who only hears a single mass of sound may miss those relationships. Likewise, the learner begins to distinguish thoughts, emotions, posture, perspective, and attention within an experience that previously felt like one reaction. Gary uses the comparison to explain why an intellectual definition of awareness cannot substitute for practicing this discrimination in actual experience.",
+        "lesson": "Learn to distinguish the components of experience without immediately judging the whole performance.",
+        "sourceId": "SM1-004",
+        "locator": "Original page 1"
+      }
+    ],
+    "storiesNote": "These are teaching metaphors in the introductory handouts, paraphrased for study.",
+    "cheatsheet": {
+      "principle": "Practice builds the ability to use what you understand.",
+      "remember": [
+        "Observe attention, perspective, thoughts, emotions, body posture, and conviction.",
+        "Noticing later is still noticing.",
+        "Begin with small, manageable situations.",
+        "Earlier exercises continue to support later ones.",
+        "Choose tomorrow’s practice opportunity in advance."
+      ],
+      "try": "Write one intention and one specific time or routine for your next practice.",
+      "watchFor": "Turning urgency for change into an impossible deadline.",
+      "question": "What is the difference between knowing an exercise and being able to use it?"
+    },
+    "quiz": [
+      {
+        "question": "You recognize a reaction only while journaling that evening. According to the introduction, this is…",
+        "options": [
+          "Too late to be useful",
+          "A useful part of training awareness",
+          "Proof you should skip to harder material"
+        ],
+        "answer": 1,
+        "explanation": "Reflective awareness is explicitly described as valuable preparation for noticing during events."
+      },
+      {
+        "question": "Why do the early exercises focus on relatively small changes?",
+        "options": [
+          "They develop skills that combine in later work",
+          "The course says major concerns do not matter",
+          "You must perfect one skill before learning another"
+        ],
+        "answer": 0,
+        "explanation": "The introductory rationale is progressive skill development, with practices supporting one another."
+      }
+    ],
+    "reflection": [
+      "What did I notice that I usually overlook?",
+      "What made the practice easier to begin?",
+      "What small adjustment would make another attempt more realistic?"
+    ],
+    "sourceIds": [
+      "SM1-003",
+      "SM1-004"
+    ],
+    "coverageNote": "The two introductory handouts ground this orientation. Introductory recordings are available in the full source reader. Historical course access intervals and claims about how quickly habits change are not treated as guarantees or active site restrictions."
+  },
+  {
+    "id": "01",
+    "title": "Gratitude",
+    "eyebrow": "Build a different emotional home",
+    "overview": "Week 1 asks you to practice directing attention toward what supports your life and, where possible, expressing gratitude as a feeling. The exercise combines attention, interpretation, perspective, and emotion. In Gary’s house metaphor, this begins building a more supportive place from which to examine old beliefs later. Gratitude is therefore both a practice in its own right and preparation for the rest of the course. The daily journal is especially important when a grateful feeling is difficult to access: you can still notice a concrete benefit without pretending to feel something. Ordinary moments, repeated frequently, are the intended setting for much of this work.",
+    "outcomes": [
+      "Explain gratitude’s role in the course beyond making a list.",
+      "Practice directing attention toward a specific benefit and observe the result honestly.",
+      "Keep a daily gratitude entry without demanding a particular emotional response."
+    ],
+    "concepts": [
+      {
+        "title": "Attention, viewpoint, and emotion",
+        "explanation": "The written practice describes gratitude as changing what you attend to, the point of view you occupy, and the dialogue in your mind together. A familiar object can be seen as an inconvenience, an entitlement, or something that helps you live. The exercise explores that change in interpretation. It does not require denying difficulties. You are learning to notice an available channel of appreciation alongside the other things occurring in your life.",
+        "sourceIds": [
+          "SM1-008"
+        ]
+      },
+      {
+        "title": "An emotional home for later work",
+        "explanation": "The lesson compares entrenched beliefs to the walls of a house. Some once seemed to offer protection, even when their present effects are costly. Pulling them apart can feel threatening. Gary presents gratitude as a way to develop another emotional standpoint before examining those older structures. Read this as the course’s metaphor for preparation: cultivate a supportive capacity, rather than attacking every difficult pattern at once or expecting one positive feeling to erase it.",
+        "sourceIds": [
+          "SM1-007"
+        ]
+      },
+      {
+        "title": "Expression rather than a correct answer",
+        "explanation": "In the guided lesson, gratitude is something you direct toward the body, a person, an experience, a meal, shelter, or another concrete support. The words and the list provide an entry point, but the invitation is also to notice the felt expression. A long list is not automatically a deeper practice. If a single everyday benefit invites attention and appreciation, it can be enough material for one attempt.",
+        "sourceIds": [
+          "SM1-007",
+          "SM1-008"
+        ]
+      },
+      {
+        "title": "Writing is a valid starting point",
+        "explanation": "The practice guide explicitly accommodates difficulty creating a feeling of gratitude. You can write what benefited you or made life easier even when the emotion is faint or absent. This keeps the exercise honest and workable. Repeating the same items initially is also allowed; the guide suggests perception may widen through practice. The useful observation is what you actually notice, not whether your entry looks original, uplifting, or impressive to anyone else.",
+        "sourceIds": [
+          "SM1-008",
+          "SM1-007"
+        ]
+      },
+      {
+        "title": "Repetition under ordinary conditions",
+        "explanation": "The supporting guidance contrasts knowing how to do a push-up with developing the strength to repeat it, and making one basketball shot with performing under pressure. In the same way, a moment of gratitude is a beginning rather than proof of permanent mastery. The brief practices throughout the day develop familiarity. Boredom and distraction can be noted without turning the entire course into a race to acquire the next piece of information.",
+        "sourceIds": [
+          "SM1-010",
+          "SM1-008"
+        ]
+      }
+    ],
+    "visual": {
+      "title": "The gratitude practice cycle",
+      "intro": "A study illustration of the course’s gratitude exercise, not a claim that emotion changes on command.",
+      "steps": [
+        {
+          "label": "Notice a support",
+          "detail": "Choose something specific that helps or enriches your life."
+        },
+        {
+          "label": "See its benefit",
+          "detail": "Attend to what it makes possible instead of taking it for granted."
+        },
+        {
+          "label": "Express appreciation",
+          "detail": "Direct gratitude toward it if that feeling is available."
+        },
+        {
+          "label": "Observe honestly",
+          "detail": "Notice feeling, attention, and inner dialogue without forcing them."
+        },
+        {
+          "label": "Write and revisit",
+          "detail": "Record the benefit and return to practice during the day."
+        }
+      ],
+      "takeaway": "A concrete observation is useful even when a strong feeling does not arrive."
+    },
+    "practice": {
+      "title": "Practice and journal gratitude",
+      "sourceIds": [
+        "SM1-008",
+        "SM1-007"
+      ],
+      "cadence": "Practice periodically during the day and write daily. The guide permits very brief moments, a few minutes, or a longer focused meditation; it gives examples of 3 seconds, 3 minutes, or 30 minutes rather than a required duration.",
+      "steps": [
+        {
+          "title": "Study the lesson",
+          "body": "Read or listen to the gratitude lesson, returning to it if useful. Notice the distinction between constructing a list and practicing a shift in attention and feeling."
+        },
+        {
+          "title": "Choose a concrete focus",
+          "body": "Select a person, experience, bodily capacity, everyday object, or practical support that you can honestly appreciate. Begin with what is accessible rather than what you think ought to impress you."
+        },
+        {
+          "title": "Attend to what it provides",
+          "body": "Consider what this support makes possible. The lesson moves through the body, senses, shelter, food, work, and the people whose contributions make everyday life possible."
+        },
+        {
+          "title": "Invite the expression",
+          "body": "If comfortable, relax and let your breathing accompany appreciation. The lesson uses breathing gratitude through the body and outward as an imaginative aid. Treat this as imagery, not a physical mechanism you must reproduce."
+        },
+        {
+          "title": "Return during the day",
+          "body": "Try small moments while doing ordinary tasks or waiting. Use a safe pause when an activity requires your full attention; the practice can be brief and need not interrupt necessary action."
+        },
+        {
+          "title": "Write the daily entry",
+          "body": "Record what you are grateful for or what supported your life today. If little emotion is present, say so. The guide values the writing and change of focus even before the feeling becomes accessible."
+        },
+        {
+          "title": "Notice resistance",
+          "body": "Write down boredom, distraction, or the demand for a larger result when it appears. Return to a manageable repetition rather than criticizing the lack of a dramatic experience."
+        }
+      ],
+      "prompts": [
+        "What specific thing helped me today, and how?",
+        "What did I notice in my attention, body, or mood while appreciating it?",
+        "Who contributed to an ordinary benefit I usually take for granted?",
+        "If I did not feel gratitude, what benefit could I still honestly acknowledge?"
+      ],
+      "obstacles": [
+        {
+          "title": "I cannot create the feeling",
+          "response": "Use the writing portion and name concrete benefits. Do not pretend an emotion occurred. The source explicitly allows beginning with thoughts and perspective."
+        },
+        {
+          "title": "My list is repetitive",
+          "response": "The guide says repetition is common at first. Give a familiar item specific attention rather than making novelty the success criterion."
+        },
+        {
+          "title": "This seems too simple",
+          "response": "The house and training metaphors explain the intended long-term role. Observe the actual experience of a small practice before deciding that simplicity makes it irrelevant."
+        }
+      ]
+    },
+    "stories": [
+      {
+        "title": "Building a second house",
+        "kind": "Metaphor",
+        "summary": "The lesson imagines the belief system as a house whose walls include protective habits such as anger or seeking help through helplessness. Even when those habits become costly, dismantling them from inside can feel like losing shelter. Gary describes three approaches: observing the old house, building another place to live emotionally, and taking apart the old structures. Gratitude belongs to building the second house. It offers another viewpoint and emotional experience from which the older habits can eventually be examined. The metaphor links a simple gratitude exercise to the course’s later belief work without claiming the old house disappears in one session.",
+        "lesson": "Cultivate a supportive standpoint before demanding that deeply familiar patterns vanish.",
+        "sourceId": "SM1-007",
+        "locator": "Original pages 1–3"
+      },
+      {
+        "title": "The many people inside one meal",
+        "kind": "Example",
+        "summary": "During the guided exercise Gary widens attention from the meal itself to the people who made it possible. Someone may have cooked or served it; a farmer grew ingredients; a driver transported them; other people built the place where the meal is eaten. An ordinary experience becomes a network of contributions. The point is not to produce an exhaustive list or compare your life competitively with someone else’s. It is to notice supports that are easy to overlook and to direct appreciation toward them. The exercise then returns to daily activities as opportunities for another brief expression.",
+        "lesson": "Look beyond the most visible benefit to the contributions supporting it.",
+        "sourceId": "SM1-007",
+        "locator": "Original pages 4–5"
+      }
+    ],
+    "storiesNote": "The supporting One Week to Live video adds a reflection on limited time and priorities. It is a perspective exercise, not a prediction or a requirement to dwell on mortality.",
+    "cheatsheet": {
+      "principle": "Practice appreciation by directing attention to an actual benefit.",
+      "remember": [
+        "Gratitude involves viewpoint and expression, not only a list.",
+        "Use ordinary supports: food, shelter, senses, people, and experiences.",
+        "Brief repetitions count.",
+        "Write daily even when emotion is faint.",
+        "Keep observations honest; do not manufacture a success report."
+      ],
+      "try": "Pause with one ordinary object and name exactly how it helps your life.",
+      "watchFor": "Treating difficulty feeling gratitude as another reason to judge yourself.",
+      "question": "What can you practice when the feeling of gratitude is not available?"
+    },
+    "quiz": [
+      {
+        "question": "You recognize something helpful but feel little gratitude. What does the guide recommend?",
+        "options": [
+          "Stop until the emotion arrives",
+          "Write about the benefit and continue gently",
+          "Claim that you feel grateful anyway"
+        ],
+        "answer": 1,
+        "explanation": "The written practice allows beginning with thought and perspective through journaling."
+      },
+      {
+        "question": "In the house metaphor, gratitude mainly helps you…",
+        "options": [
+          "Prove every old belief false immediately",
+          "Build a supportive standpoint for later examination",
+          "Avoid examining beliefs forever"
+        ],
+        "answer": 1,
+        "explanation": "The second house provides a different emotional viewpoint from which old structures can be explored."
+      },
+      {
+        "question": "Why repeat a simple practice during the week?",
+        "options": [
+          "Repetition develops a usable skill",
+          "New information is forbidden",
+          "A single missed attempt cancels the earlier ones"
+        ],
+        "answer": 0,
+        "explanation": "The supporting guidance distinguishes knowing an exercise from having practiced its use."
+      }
+    ],
+    "reflection": [
+      "Which ordinary support became more visible this week?",
+      "What changed, if anything, between listing a benefit and attending to it?",
+      "What small practice could I keep as the next week begins?"
+    ],
+    "sourceIds": [
+      "SM1-007",
+      "SM1-008",
+      "SM1-009",
+      "SM1-010"
+    ],
+    "coverageNote": "The main handout and written lesson provide the exercise and guided meditation. Supporting videos add the one-week-to-live perspective and the distinction between knowing and training. Physiological explanations in the original are not used here as established medical facts."
+  },
+  {
+    "id": "02",
+    "title": "Abdication of Power",
+    "eyebrow": "Notice where you assign causation",
+    "overview": "This week examines the stories through which you attribute an emotional response entirely to another person or circumstance. Gary calls this abdication: treating the power over your feelings as if it belongs outside you. The practice is to notice the wording, acknowledge your interpretation or agreement, and rewrite the account more precisely. This is a first step in examining beliefs, not a demand to eliminate a reaction immediately. The written guide also makes a crucial distinction: other people remain accountable for their behavior. Investigating your internal response does not require excusing harmful actions, staying in an unwanted situation, or taking blame for what someone else did.",
+    "outcomes": [
+      "Distinguish an external event from your interpretation of it.",
+      "Identify an explicit or implied statement that assigns emotional power externally.",
+      "Rewrite a reaction account to include your beliefs without removing others’ accountability."
+    ],
+    "concepts": [
+      {
+        "title": "Event and interpretation are different",
+        "explanation": "The guide’s traffic example separates a careless lane change from interpretations such as danger, recklessness, or a demand for punishment. Gary asks you to notice the part played by beliefs in the emotional sequence. Two people may react differently to the same event, and you may react differently on another day. This is a prompt to investigate your contribution to experience, not evidence that circumstances have no consequences or that all emotion is a consciously chosen thought.",
+        "sourceIds": [
+          "SM1-014"
+        ]
+      },
+      {
+        "title": "The shorthand hides a model",
+        "explanation": "Phrases such as another person making you angry can compress an entire explanation into a few familiar words. The lesson asks what you are assuming when you use that shorthand. Are you treating your response as inevitable? Are you overlooking an expectation or interpretation? Naming that assumption can reveal a possible area for change. The assignment includes speech, inner commentary, and an emotional reaction whose explanation has not yet been put into words.",
+        "sourceIds": [
+          "SM1-015"
+        ]
+      },
+      {
+        "title": "Power goes into agreements",
+        "explanation": "Gary clarifies that no literal substance or force has been transferred to the other person. In his model, conviction has been invested in an agreement about what their action means and how you must respond. The other person may activate that agreement, but they do not possess a piece of you that must be retrieved. The practical implication is to look at your assumptions and commitments rather than wait for the other person to change before examining your own response.",
+        "sourceIds": [
+          "SM1-015"
+        ]
+      },
+      {
+        "title": "Responsibility includes boundaries",
+        "explanation": "The main handout explicitly preserves accountability for others’ actions. A supporting talk also describes choosing not to live with, spend time with, or accept mistreatment from someone. These distinctions prevent the practice from becoming self-blame. You can investigate your interpretation while naming what happened accurately and taking protective or practical action. The study task is to find agency in your response, not to declare that you caused someone else’s behavior.",
+        "sourceIds": [
+          "SM1-014",
+          "SM1-016"
+        ]
+      },
+      {
+        "title": "Acknowledge before correcting",
+        "explanation": "The lesson warns against instantly denying or dismissing the statement you caught. First acknowledge that this is what you thought or said, and see the agreement it implies. Then rewrite it to include your own beliefs or interpretation. At this stage, the assignment changes where you look for the emotional mechanism; it does not require that every underlying belief dissolve. Observing the mind is more useful here than forcing it to stop thinking.",
+        "sourceIds": [
+          "SM1-015",
+          "SM1-014"
+        ]
+      }
+    ],
+    "visual": {
+      "title": "Unpack the reaction",
+      "intro": "A study illustration of Gary’s framework; it highlights interpretation without reducing every emotion to this single sequence.",
+      "steps": [
+        {
+          "label": "Event",
+          "detail": "Describe what happened in observable terms."
+        },
+        {
+          "label": "Interpretation",
+          "detail": "Notice what your mind says the event means."
+        },
+        {
+          "label": "Agreement",
+          "detail": "Look for an expectation, assumption, or conviction you treated as true."
+        },
+        {
+          "label": "Response",
+          "detail": "Name emotion, bodily response, and action separately."
+        },
+        {
+          "label": "Reframe",
+          "detail": "Include your internal contribution while keeping the event and accountability clear."
+        }
+      ],
+      "takeaway": "Change the account from an inevitable external cause to an inquiry into the response."
+    },
+    "practice": {
+      "title": "Catch and rewrite abdication statements",
+      "sourceIds": [
+        "SM1-014",
+        "SM1-015"
+      ],
+      "cadence": "Watch thoughts and speech during the day and spend some time journaling daily. The guide illustrates the cumulative value of noticing often; it does not make hourly perfection a requirement.",
+      "steps": [
+        {
+          "title": "Study the lesson",
+          "body": "Read or listen to the main lesson. Notice the difference between an external stimulus, the belief about it, and the emotion that follows."
+        },
+        {
+          "title": "Catch the wording",
+          "body": "Look for phrases that make a person, object, schedule, or circumstance the sole author of your emotion. Also notice the implied rule that you can only feel differently after something outside you changes."
+        },
+        {
+          "title": "Acknowledge the observation",
+          "body": "Record what you actually said or thought. Do not replace the evidence with a polished story of how you think you ought to respond."
+        },
+        {
+          "title": "Describe the event separately",
+          "body": "Write a concise account of what occurred. Keep it distinct from the meanings your mind supplied, such as disrespect, danger, rejection, or unfairness."
+        },
+        {
+          "title": "Name your contribution",
+          "body": "Identify an interpretation, expectation, or belief if you can. A course-style reframe includes that you are having an emotion through your beliefs about the event. If the belief is unclear, record the uncertainty rather than inventing one."
+        },
+        {
+          "title": "Retain practical responsibility",
+          "body": "Identify any action, boundary, or communication still needed. The exercise does not remove the other person’s responsibility or require you to remain in a harmful or unwanted interaction."
+        },
+        {
+          "title": "Review without demanding instant change",
+          "body": "Write the original statement and the revised account in your journal. Notice whether your viewpoint changes; do not require the emotion to disappear for the observation to count."
+        }
+      ],
+      "prompts": [
+        "What did my mind say caused this emotion?",
+        "What happened, and what meaning did I add to it?",
+        "What expectation or agreement can I actually identify?",
+        "How can I include my interpretation in the account without blaming myself for another person’s action?",
+        "What practical action or boundary remains relevant?"
+      ],
+      "obstacles": [
+        {
+          "title": "This feels like excusing someone else",
+          "response": "The written guide distinguishes their accountability from your emotional process. Keep both in view rather than using one to erase the other."
+        },
+        {
+          "title": "I want to stop the blaming thoughts",
+          "response": "The guide says observing the mind is useful at this stage. Catching and writing the thought provides material for later belief work."
+        },
+        {
+          "title": "I understand the reframe but still feel upset",
+          "response": "The lesson states that locating power in agreements is different from changing all those agreements. Observe the response and continue the practice without making immediate relief the test."
+        }
+      ]
+    },
+    "stories": [
+      {
+        "title": "Two people in the same snow",
+        "kind": "Example",
+        "summary": "The written lesson imagines cold, snowy weather. One person experiences it as depressing, while another finds it beautiful and enjoyable. Gary uses the contrast to question the everyday statement that weather itself determines the same feeling in everyone. In his explanation, each person brings an agreement and a point of view to the event. The example is a teaching simplification about interpretation, not a claim that weather cannot affect bodies, plans, or health. Its useful question is narrower: what meaning am I adding, and am I treating that meaning as the only possible response?",
+        "lesson": "Notice the interpretation you bring to a circumstance before calling your reaction inevitable.",
+        "sourceId": "SM1-015",
+        "locator": "Original pages 1–2"
+      },
+      {
+        "title": "A compliment with two meanings",
+        "kind": "Example",
+        "summary": "The lesson describes how a compliment about appearance might feel flattering at one time and unconvincing or even uncomfortable at another. In the second case, a person may suspect the speaker is being dishonest or merely saying what they want to hear. The same type of words can meet different agreements and perspectives. Gary uses the example to show why praise does not operate like a mechanical emotional switch. For study, follow the meaning assigned to the compliment and the view of self involved, rather than trying to decide which response everyone should have.",
+        "lesson": "The meaning received can matter as much as the words delivered.",
+        "sourceId": "SM1-015",
+        "locator": "Original pages 4–5"
+      }
+    ],
+    "storiesNote": "The supporting Accepting Responsibility talk includes Gary’s own relationship reflection and explicitly discusses setting boundaries. The examples above come from the written lesson.",
+    "cheatsheet": {
+      "principle": "Notice the event, then investigate the interpretation you brought to it.",
+      "remember": [
+        "Catch speech, thoughts, and implied emotional rules.",
+        "Acknowledge what you actually thought before rewriting it.",
+        "Personal power is the course’s language for conviction invested in agreements.",
+        "A reframe is not the same as dissolving an underlying belief.",
+        "Other people remain accountable for their behavior."
+      ],
+      "try": "Write: event / my interpretation / emotion / a more precise account.",
+      "watchFor": "Replacing blame of others with blame of yourself, or using the practice to excuse mistreatment.",
+      "question": "What changes when you add “my beliefs about this” to an emotional explanation?"
+    },
+    "quiz": [
+      {
+        "question": "What is the main assignment this week?",
+        "options": [
+          "Make every unpleasant emotion stop",
+          "Notice and reframe where you attribute emotional power",
+          "Prove other people never do harm"
+        ],
+        "answer": 1,
+        "explanation": "The assignment locates and questions agreements in the account of a reaction."
+      },
+      {
+        "question": "Does the exercise remove another person’s responsibility?",
+        "options": [
+          "Yes, all responsibility becomes yours",
+          "No, their behavior and your internal response remain distinct",
+          "Only if you feel calmer"
+        ],
+        "answer": 1,
+        "explanation": "The main practice guide expressly says it is not taking responsibility away from others."
+      },
+      {
+        "question": "You catch an abdication statement. What comes first?",
+        "options": [
+          "Pretend you never believed it",
+          "Acknowledge it and examine its implied agreement",
+          "Argue until the emotion disappears"
+        ],
+        "answer": 1,
+        "explanation": "The written lesson cautions against denying or dismissing what you just noticed."
+      }
+    ],
+    "reflection": [
+      "Which repeated phrase most clearly hid an assumption?",
+      "Where did a more precise account create even a little room for choice?",
+      "How did I distinguish self-inquiry from self-blame?"
+    ],
+    "sourceIds": [
+      "SM1-014",
+      "SM1-015",
+      "SM1-016"
+    ],
+    "coverageNote": "The guide and written lesson ground the core practice. Accepting Responsibility adds relationship and boundary context. The full week also includes an alternate audio and supporting material about beliefs and repressed emotions; these remain available for deeper study rather than being reduced to a claim that all emotions have one cause."
+  },
+  {
+    "id": "03",
+    "title": "The Attention",
+    "eyebrow": "Notice what and from where",
+    "overview": "Week 3 turns attention toward attention itself. The two central questions are what your attention is on and from what point of view you are perceiving it. A person can think about the same event with fear, anger, appreciation, or curiosity; the topic alone does not describe the whole experience. Gary asks you to investigate these movements rather than immediately wrestle your mind into better concentration. The practice includes noticing later, retracing a train of thought, and writing observations. Discovering how often attention moves automatically is treated as useful awareness, not evidence that you are failing. Later weeks build on this observer skill.",
+    "outcomes": [
+      "Distinguish the object of attention from the perspective observing it.",
+      "Notice bodily attitude, emotion, and interpretation as clues to perspective.",
+      "Record automatic movements of attention without making concentration the only measure of progress."
+    ],
+    "concepts": [
+      {
+        "title": "The object of attention",
+        "explanation": "Attention can rest on an external task, a sound, a sensation, another person, a remembered event, or an imagined future. The practice asks you to notice where it goes when you are not consciously directing it. This includes procrastination: what becomes interesting when you turn away from something you intended to do? The aim is not to label all wandering as a problem, but to make its patterns visible enough that they can later be examined.",
+        "sourceIds": [
+          "SM1-021",
+          "SM1-022"
+        ]
+      },
+      {
+        "title": "The point of view behind the object",
+        "explanation": "Two moments can concern the same person yet differ because one is seen with appreciation and the other with resentment. Gary treats this emotional or attitudinal location as a second dimension of attention. Ask which eyes you are looking through: fearful, critical, hopeful, curious, or another perspective you can actually recognize. Posture and muscle tension may provide clues. The label is provisional; noticing the viewpoint matters more than choosing an exact name.",
+        "sourceIds": [
+          "SM1-021",
+          "SM1-022"
+        ]
+      },
+      {
+        "title": "Observing rather than wrestling",
+        "explanation": "The handout calls this a counterintuitive practice. Instead of trying harder to focus against an unconscious pull, watch what the pull does. In the course’s model, investigating the perspective can place you outside it for a moment. That moment may be partial and brief. You do not need an empty mind or an instant feeling of complete detachment. The useful work is learning how attention is occupied and what patterns draw it.",
+        "sourceIds": [
+          "SM1-021",
+          "SM1-022"
+        ]
+      },
+      {
+        "title": "The second reaction is also observable",
+        "explanation": "You may notice a distracting story and then criticize yourself for having it. Gary identifies that criticism as another perspective, not the neutral observer giving an objective report. You can examine what that new reaction attends to and what attitude it carries. This keeps the exercise from becoming an endless contest with the mind. A gentle recognition of the new pattern is more aligned with the practice than arguing that you should not have been hooked.",
+        "sourceIds": [
+          "SM1-022"
+        ]
+      },
+      {
+        "title": "Progress can look like discovering the problem",
+        "explanation": "The guide accepts noticing once or twice a day and even realizing the following day that you had not noticed earlier. It compares discovering lost attention to finding a hole in a pocket: you still need to repair it, but first you know where the loss occurs. The insight that you have less control than you assumed is therefore useful. Evaluate an attempt by the detail you saw, not by an imagined standard of uninterrupted mindfulness.",
+        "sourceIds": [
+          "SM1-021"
+        ]
+      }
+    ],
+    "visual": {
+      "title": "One topic, several viewpoints",
+      "intro": "A study illustration of the course’s distinction between attention and perspective.",
+      "steps": [
+        {
+          "label": "Topic",
+          "detail": "Identify the event, person, task, sensation, or story occupying attention."
+        },
+        {
+          "label": "Viewpoint",
+          "detail": "Notice the attitude through which that topic is being perceived."
+        },
+        {
+          "label": "Clues",
+          "detail": "Look at emotion, posture, inner words, and imagined images."
+        },
+        {
+          "label": "Observer",
+          "detail": "Notice that you can describe the viewpoint instead of only speaking from it."
+        },
+        {
+          "label": "Next movement",
+          "detail": "If judgment appears, observe that viewpoint too."
+        }
+      ],
+      "takeaway": "“What am I focused on?” and “How am I seeing it?” are different questions."
+    },
+    "practice": {
+      "title": "Observe attention and perspective",
+      "sourceIds": [
+        "SM1-021",
+        "SM1-022"
+      ],
+      "cadence": "Notice periodically during the day and journal about observations. The guide encourages repeated listening and explicitly allows forgetting or noticing only once or twice a day while learning.",
+      "steps": [
+        {
+          "title": "Study the lesson",
+          "body": "Read or listen to the attention lesson. Attend to both parts of the exercise rather than reducing it to trying to concentrate harder."
+        },
+        {
+          "title": "Ask where attention is",
+          "body": "At a natural pause, identify what occupies your attention. It may be an external activity, a sensation, a conversation, or an imagined scene. Describe it concretely."
+        },
+        {
+          "title": "Ask from what perspective",
+          "body": "Notice whether the attitude is curious, worried, judgmental, appreciative, or something else. Include emotion and posture as clues without forcing a label."
+        },
+        {
+          "title": "Watch the next response",
+          "body": "If the mind criticizes the observation or demands immediate change, note this new perspective. You are allowed to watch a reaction without joining its argument."
+        },
+        {
+          "title": "Look backward when useful",
+          "body": "Ask where your attention was just before you remembered the practice. The guide specifically allows this. Retrace a few transitions if you can, without inventing what you cannot remember."
+        },
+        {
+          "title": "Write the observation",
+          "body": "Journal the topic, viewpoint, emotion, and any repeated sequence. This supports seeing patterns beyond a single moment."
+        },
+        {
+          "title": "Credit the noticing",
+          "body": "Record what became visible. The week’s assignment is awareness of how attention moves, not uninterrupted control of every thought."
+        }
+      ],
+      "prompts": [
+        "What was my attention on just before this pause?",
+        "From what emotional or attitudinal perspective was I seeing it?",
+        "What bodily posture or inner sentence helped me recognize that viewpoint?",
+        "What happened to attention when I noticed it?",
+        "Was the next response curiosity, criticism, or something else?"
+      ],
+      "obstacles": [
+        {
+          "title": "I forgot most of the day",
+          "response": "The handout treats this as common. A retrospective observation is useful; begin from the moment you remember."
+        },
+        {
+          "title": "I keep judging my performance",
+          "response": "Make the judging perspective the next object of observation. Its confident assessment is not automatically an accurate measure of learning."
+        },
+        {
+          "title": "I cannot hold the observer position",
+          "response": "The guide says later perspective and character exercises help develop it. For now, noticing the difficulty provides information rather than disqualifying the attempt."
+        }
+      ]
+    },
+    "stories": [
+      {
+        "title": "One boyfriend, four emotional viewpoints",
+        "kind": "Anecdote",
+        "summary": "Gary describes a friend whose boyfriend moved across the country to start a business. As their relationship drifted, she felt love, anger, sadness, and fear. Her attention appeared to be on one man, yet the lesson distinguishes several imagined versions: the beloved person, the person she resented for leaving, the person she missed, and the person she feared losing. Gary then introduces another position: observing all four viewpoints. The example shows why naming only the topic of a thought can miss the experience’s complexity. Several emotions and interpretations can coexist without any one of them describing the entire situation.",
+        "lesson": "Identify the perspective as well as the person or event it concerns.",
+        "sourceId": "SM1-022",
+        "locator": "Original pages 4–5"
+      },
+      {
+        "title": "Scouting the other team",
+        "kind": "Metaphor",
+        "summary": "The lesson compares attention to the ball in a basketball game. When habitual thoughts carry it away, you find yourself reacting to their play. Instead of trying only to grab it back by force, Gary suggests studying how the opposing players move: one attitude may pass the story to criticism, which passes it to anger. Familiarity with that sequence makes the next movement easier to recognize. The metaphor’s point is observation and anticipation, not hostility toward yourself. The more attention is engaged in watching the pattern, the less automatically it participates in the pattern.",
+        "lesson": "Study recurring sequences so they become recognizable rather than mysterious.",
+        "sourceId": "SM1-022",
+        "locator": "Original pages 7–8"
+      }
+    ],
+    "storiesNote": "The written lesson also uses a finger-and-distant-object demonstration to distinguish visual focus, attention, and point of view, and recounts Gary noticing long gaps in awareness during a drive.",
+    "cheatsheet": {
+      "principle": "Notice both what occupies attention and the viewpoint from which you perceive it.",
+      "remember": [
+        "Attention can be internal, external, sensory, or imagined.",
+        "The same topic can be viewed through different emotions.",
+        "Posture and inner dialogue can reveal perspective.",
+        "Judging your noticing is another perspective to observe.",
+        "Retrospective noticing counts."
+      ],
+      "try": "At one ordinary pause, write “Attention on…” and “Looking from…”.",
+      "watchFor": "Turning an observation exercise into a demand to control every thought.",
+      "question": "How can two moments have the same object of attention but different experiences?"
+    },
+    "quiz": [
+      {
+        "question": "You are thinking about tomorrow from a worried viewpoint. What are the two parts to notice?",
+        "options": [
+          "Tomorrow and the worried perspective",
+          "Only the number of thoughts",
+          "Whether tomorrow is objectively good or bad"
+        ],
+        "answer": 0,
+        "explanation": "The practice distinguishes the object of attention from the point of view."
+      },
+      {
+        "question": "After noticing distraction, your mind says you are terrible at this. What fits the exercise?",
+        "options": [
+          "Treat the criticism as another viewpoint to observe",
+          "Accept the criticism as the final score",
+          "Force all thought to stop"
+        ],
+        "answer": 0,
+        "explanation": "The lesson explicitly includes observing the judgment that follows the first realization."
+      },
+      {
+        "question": "Which observation can count as progress?",
+        "options": [
+          "Only a full day without distraction",
+          "Realizing later that attention wandered automatically",
+          "Only a pleasant emotional state"
+        ],
+        "answer": 1,
+        "explanation": "The handout values delayed awareness and discovering how little conscious control you previously noticed."
+      }
+    ],
+    "reflection": [
+      "What repeatedly captured my attention this week?",
+      "Which perspectives were easiest and hardest to recognize?",
+      "What did I learn by noticing after an event?"
+    ],
+    "sourceIds": [
+      "SM1-021",
+      "SM1-022"
+    ],
+    "coverageNote": "The written practice and full written lesson ground this guide. The week’s supporting videos revisit the attention game and difficulty of noticing; complete transcripts remain in the source reader."
+  },
+  {
+    "id": "04",
+    "title": "Finding Neutral",
+    "eyebrow": "Create space before agreement",
+    "overview": "Finding Neutral trains the small pause between hearing an opinion and automatically agreeing or opposing it. Gary presents both reactions as ways of investing conviction in a position. The experiment is to notice the impulse, remain respectful, and explore a neutral response where appropriate. It also applies inwardly, when one thought proposes a judgment and another immediately believes it. Neutrality here is a temporary skill-building practice, not a lifelong rule against having opinions or taking necessary action. The week emphasizes more precise language: describe your perspective as yours rather than presenting every preference or judgment as an unquestionable law for everyone.",
+    "outcomes": [
+      "Recognize the impulse to agree or disagree before or after it happens.",
+      "Use a respectful neutral response in a suitable low-stakes conversation.",
+      "Distinguish a personal preference from an absolute-sounding judgment."
+    ],
+    "concepts": [
+      {
+        "title": "A third option in conversation",
+        "explanation": "Ordinary conversation can make agreement and disagreement feel like the only choices. This week explores a third: hearing what someone says without immediately committing to it or its opposite. The guide suggests acknowledging that you can understand their perspective or finding it interesting. The intention is a genuine pause in automatic belief, not a technique for silently declaring superiority. Pay attention to your own reaction as carefully as you attend to the other person’s words.",
+        "sourceIds": [
+          "SM1-027",
+          "SM1-028"
+        ]
+      },
+      {
+        "title": "Skepticism without argument",
+        "explanation": "In Gary’s vocabulary, faith or personal power is invested when an opinion is treated as true. Opposing an opinion can involve just as much conviction as supporting it. Neutrality therefore differs from automatic contrarianism. You are practicing leaving an idea open long enough to observe how agreement forms. This extends the previous week’s investigation of attention and the earlier inquiry into emotional attribution: what appears obvious may contain assumptions you have not yet examined.",
+        "sourceIds": [
+          "SM1-027",
+          "SM1-028"
+        ]
+      },
+      {
+        "title": "Opinions have a point of view",
+        "explanation": "The lesson contrasts declaring a pizza the best in the world with saying it is your favorite. The latter identifies the perspective and leaves room for other preferences. This precision also matters inwardly: a belief about yourself is different from an objective description of what everyone thinks. The exercise encourages noticing when language expands a personal judgment into an imagined universal verdict, then restoring the viewpoint and limits of that statement.",
+        "sourceIds": [
+          "SM1-028"
+        ]
+      },
+      {
+        "title": "Social discomfort is part of the observation",
+        "explanation": "The guide notes that people often bond through shared opinions, so declining the usual agreement can feel awkward. It presents learned social habits as one possible source of that pressure. The practical task is to notice discomfort in thought and body without assuming it proves you must agree. Connection can also be expressed through interest, care, and appreciation. You do not need to turn every conversation into an obvious demonstration of the assignment.",
+        "sourceIds": [
+          "SM1-027"
+        ]
+      },
+      {
+        "title": "Neutrality is a practice, not a new dogma",
+        "explanation": "The handout explicitly rejects interpreting the exercise as never having an opinion. The written lesson recognizes situations where your considered view is needed, such as giving professional input. In those moments, state what you see and the perspective behind it. The intended result is more conscious choice about agreement and disagreement, not disengagement, indecision, or suppressing a necessary boundary. Practice in manageable situations and return periodically rather than demanding permanent neutrality.",
+        "sourceIds": [
+          "SM1-027",
+          "SM1-028"
+        ]
+      }
+    ],
+    "visual": {
+      "title": "Three possible responses",
+      "intro": "A study illustration of the course’s neutrality exercise.",
+      "steps": [
+        {
+          "label": "Hear the opinion",
+          "detail": "Separate the statement from the pressure to adopt a side."
+        },
+        {
+          "label": "Notice the impulse",
+          "detail": "Observe automatic agreement, opposition, or concern about belonging."
+        },
+        {
+          "label": "Leave room",
+          "detail": "Try a respectful acknowledgment or a sincere question."
+        },
+        {
+          "label": "State your view when needed",
+          "detail": "Name your perspective and reasons without pretending they are everyone’s."
+        },
+        {
+          "label": "Review inwardly",
+          "detail": "Look for the same agreement process among your own thoughts."
+        }
+      ],
+      "takeaway": "The skill is choosing your response with awareness."
+    },
+    "practice": {
+      "title": "Refrain from automatic agreement and disagreement",
+      "sourceIds": [
+        "SM1-027",
+        "SM1-028"
+      ],
+      "cadence": "Practice during suitable conversations and journal sometime during the day. The lesson encourages returning to this exercise periodically and rotating it with earlier practices.",
+      "steps": [
+        {
+          "title": "Choose a suitable conversation",
+          "body": "Begin with an ordinary opinion or preference where pausing is practical. This is a study suggestion for applying the course’s exercise, not a requirement to withhold needed decisions."
+        },
+        {
+          "title": "Listen for the proposal",
+          "body": "Notice the statement you are being invited to believe. Pay attention to implied assumptions as well as the literal words."
+        },
+        {
+          "title": "Observe your response",
+          "body": "Catch the urge to agree, argue, reassure, or belong. If you only recognize it later, record the sequence then."
+        },
+        {
+          "title": "Try a neutral expression",
+          "body": "Where appropriate, acknowledge the viewpoint, express interest, or ask a sincere question. Do not use a neutral phrase sarcastically or as a concealed argument."
+        },
+        {
+          "title": "Give an opinion consciously when needed",
+          "body": "When your role calls for a decision or assessment, explain how you see the situation and why. The course allows opinions; the target is automatic investment, not every act of judgment."
+        },
+        {
+          "title": "Watch internal agreements",
+          "body": "Notice when one thought criticizes you and another instantly accepts its verdict. Observe that agreement without replacing it with a compulsory positive counterclaim."
+        },
+        {
+          "title": "Journal the exchange",
+          "body": "Write what was said, your automatic impulse, what you did, and what happened emotionally. Include any discomfort about not joining a side."
+        }
+      ],
+      "prompts": [
+        "What opinion or assumption was offered?",
+        "What did my automatic response want to do?",
+        "How could I acknowledge the person without committing to the statement?",
+        "If I needed to give my view, how could I state its perspective and reasons?",
+        "Where did I see a similar agreement between thoughts in my own mind?"
+      ],
+      "obstacles": [
+        {
+          "title": "I feel disconnected if I do not agree",
+          "response": "The handout recognizes the social role of shared opinions. Experiment with connection through genuine interest or appreciation while observing the discomfort."
+        },
+        {
+          "title": "I think I must never have opinions",
+          "response": "The guide explicitly says this exaggerates the scope. The goal is conscious choice, and the lesson permits offering your view where it is needed."
+        },
+        {
+          "title": "I need to perfect the earlier exercises first",
+          "response": "The handout cautions against perfectionism becoming procrastination. Later skills can strengthen earlier ones; improvement is the aim."
+        }
+      ]
+    },
+    "stories": [
+      {
+        "title": "The farmer, the horses, and the broken leg",
+        "kind": "Parable",
+        "summary": "In Gary’s retelling, a farmer celebrates capturing wild horses, while a neighboring Zen master leaves the outcome open. The farmer’s son then falls while training a horse and breaks his leg; the father now regards the event as terrible. The master again withholds a final verdict. When an army later takes the young men to war, the injured son is spared, and the farmer celebrates the same injury as fortunate. Gary uses the shifting judgments to contrast an immediate conclusion with a perspective that allows a longer, uncertain story to unfold. The master neither joins nor argues with each new verdict.",
+        "lesson": "Leave room for what you do not yet know rather than treating a momentary assessment as the whole story.",
+        "sourceId": "SM1-028",
+        "locator": "Original pages 1–2"
+      },
+      {
+        "title": "A car purchase built from small yeses",
+        "kind": "Example",
+        "summary": "Gary recalls learning a sales technique that builds commitment through a sequence of small agreements. A salesperson confirms the ride, features, safety, price, and payment preferences the buyer has already expressed. Each answer seems reasonable on its own. Together they create momentum toward buying, even if the customer still wants to compare other cars. The example highlights how a wish to appear consistent can make changing direction feel difficult. In the lesson, everyday agreements are worth observing because a large commitment may be assembled from many seemingly minor ones.",
+        "lesson": "Notice cumulative commitment, and allow yourself to reconsider when relevant information or priorities remain open.",
+        "sourceId": "SM1-028",
+        "locator": "Original page 4"
+      },
+      {
+        "title": "The best pizza or my favorite pizza?",
+        "kind": "Anecdote",
+        "summary": "At a pizza restaurant, a friend or client calls the pizza the best in the world. Gary uses the remark to explore its implied claim. The speaker clearly enjoys it, but presenting that preference as a universal ranking invites people with other favorites to defend theirs. Describing it as a personal favorite communicates the enjoyment while locating the assessment in one person’s experience. The example scales down an abstract lesson about belief into a familiar exchange: certainty in the wording may be greater than the actual evidence or intention.",
+        "lesson": "A precise personal preference can express enthusiasm without turning taste into a universal rule.",
+        "sourceId": "SM1-028",
+        "locator": "Original pages 6–7"
+      }
+    ],
+    "storiesNote": "These are paraphrases of the parable and examples in the written lesson; the parable is presented as a teaching story, not historical evidence.",
+    "cheatsheet": {
+      "principle": "Observe the impulse to take a side before investing in it.",
+      "remember": [
+        "Neutrality is a third option, not automatic opposition.",
+        "Listen to your own inner response.",
+        "Personal preferences can be stated as personal preferences.",
+        "Opinions and necessary decisions are still allowed.",
+        "Apply the same observation to internal judgments."
+      ],
+      "try": "In a low-stakes exchange, pause and ask a sincere question before agreeing or opposing.",
+      "watchFor": "Using neutrality as superiority, evasiveness, or a rigid rule.",
+      "question": "How does “my favorite” differ from “the best” in the agreement it proposes?"
+    },
+    "quiz": [
+      {
+        "question": "Finding Neutral means…",
+        "options": [
+          "Never expressing an opinion again",
+          "Practicing awareness and choice around agreement",
+          "Always contradicting the first opinion"
+        ],
+        "answer": 1,
+        "explanation": "The guide explicitly limits the exercise to breaking automatic patterns, not banning opinions."
+      },
+      {
+        "question": "Which phrase most clearly locates a preference in its perspective?",
+        "options": [
+          "This is the only acceptable choice",
+          "This is my favorite option",
+          "Everyone sensible agrees with me"
+        ],
+        "answer": 1,
+        "explanation": "A personal preference is different from an absolute-sounding rule."
+      },
+      {
+        "question": "What is the parable’s main contribution to this lesson?",
+        "options": [
+          "Every injury is secretly good",
+          "An immediate verdict may not capture the whole unfolding situation",
+          "A neutral person cannot care"
+        ],
+        "answer": 1,
+        "explanation": "The changing judgments illustrate flexibility and uncertainty, not a promise that setbacks become benefits."
+      }
+    ],
+    "reflection": [
+      "When did I feel the strongest pressure to agree or oppose?",
+      "What changed when I made my perspective explicit?",
+      "Where can I use this skill while still speaking clearly about what matters?"
+    ],
+    "sourceIds": [
+      "SM1-027",
+      "SM1-028",
+      "SM1-029",
+      "SM1-030"
+    ],
+    "coverageNote": "The written practice and lesson ground the exercise and stories. Supporting videos extend it to taking things personally and to the course’s multi-element model of beliefs. Their broader physiological or treatment claims are not presented here as clinical guidance."
+  },
+  {
+    "id": "05",
+    "title": "Perspective",
+    "eyebrow": "Write from the observer’s seat",
+    "overview": "Week 5 turns the observer idea into a concrete writing practice. You write about yourself in third person, using your name or a third-person pronoun, and describe both events and the thoughts, emotions, and interpretations involved. The purpose is to practice looking at an experience from outside its immediate point of view. Gary also explores how imagination can reconstruct sensory and emotional experiences, making a memory feel present. The exercise begins with recent, manageable events rather than the most intense history. If writing becomes overwhelming or feels like being fully back inside the event, the written lesson instructs you to stop and take a break.",
+    "outcomes": [
+      "Describe a recent event and its inner experience in third person.",
+      "Distinguish present observation from becoming absorbed in a remembered viewpoint.",
+      "Use resistance to writing as material for a manageable practice."
+    ],
+    "concepts": [
+      {
+        "title": "Changing one element of a belief",
+        "explanation": "The written lesson names perspective, thought or idea, emotion, and faith as elements of a belief. It argues that changing all of them simultaneously can be difficult, so this exercise concentrates on perspective. The aim is not to replace an unpleasant belief with a positive sentence by force. It is to develop a position from which the thought, emotion, and conviction can be observed. This gives the later course a practical foundation for examining the other elements.",
+        "sourceIds": [
+          "SM1-034"
+        ]
+      },
+      {
+        "title": "The remembered self and the present observer",
+        "explanation": "Gary distinguishes the person observing now from the version of self reconstructed in a memory. A remembered scene may carry vivid feeling, but the writing happens in the present. Third-person language is intended to help maintain that distinction. This is the course’s reflective framework, not a denial that past events happened or mattered. Describe the memory honestly while also noticing the current act of recalling, interpreting, and writing about it.",
+        "sourceIds": [
+          "SM1-034"
+        ]
+      },
+      {
+        "title": "Write both the outer and inner event",
+        "explanation": "A useful entry includes what people said or did and what the person you are writing about thought, imagined, felt, expected, or decided. The internal detail is central to the exercise because it reveals the viewpoint that organized the experience. Merely changing every pronoun while remaining fully absorbed in an argument misses the purpose. At the same time, an imperfect first attempt is useful practice; you do not need polished prose.",
+        "sourceIds": [
+          "SM1-034",
+          "SM1-033"
+        ]
+      },
+      {
+        "title": "Start small and remain able to pause",
+        "explanation": "The guide recommends recent events, especially from today or the past week. The written lesson explains that strongly charged memories can pull attention into reliving rather than observing. It explicitly instructs a pause if that happens, with a return to ordinary or enjoyable activity. The practical measure is your ability to remain aware that you are here writing about a memory. Do not use intensity as proof that a practice is deeper or more successful.",
+        "sourceIds": [
+          "SM1-034"
+        ]
+      },
+      {
+        "title": "Resistance can be the subject",
+        "explanation": "Not knowing what to write, believing there is too much to write, or worrying about doing it incorrectly can all become third-person observations. Instead of resolving every preparation question, describe the mind having the question. Gary also permits practical adaptations: different writing tools, short attempts, or third-person voice notes followed by later listening. The essential feature is repeated observation from another perspective, not a particular notebook, medium, or literary style.",
+        "sourceIds": [
+          "SM1-033",
+          "SM1-034"
+        ]
+      }
+    ],
+    "visual": {
+      "title": "Two views of one remembered event",
+      "intro": "A study illustration of the course’s perspective practice; it does not change the historical facts.",
+      "steps": [
+        {
+          "label": "Present setting",
+          "detail": "Notice yourself here, recalling and writing now."
+        },
+        {
+          "label": "Remembered scene",
+          "detail": "Choose a recent event with a manageable emotional charge."
+        },
+        {
+          "label": "Third-person account",
+          "detail": "Use your name or a third-person pronoun for the person in the scene."
+        },
+        {
+          "label": "Inner experience",
+          "detail": "Describe what that person thought, felt, imagined, and believed."
+        },
+        {
+          "label": "Observer check",
+          "detail": "Notice whether you can still observe the memory; pause if absorbed or overwhelmed."
+        }
+      ],
+      "takeaway": "The exercise changes the point of view from which you examine the experience."
+    },
+    "practice": {
+      "title": "Third-person reflective writing",
+      "sourceIds": [
+        "SM1-033",
+        "SM1-034"
+      ],
+      "cadence": "The main guide suggests at least 20 minutes on most days if feasible, while explicitly valuing 5-minute attempts and adapting to time and energy. This is guidance, not a minimum for an attempt to count.",
+      "steps": [
+        {
+          "title": "Study the perspective lesson",
+          "body": "Read or listen to the lesson, including its instructions for maintaining an outside perspective and pausing when overwhelmed."
+        },
+        {
+          "title": "Select a manageable recent event",
+          "body": "Begin with today or the past week. Choose something you can describe while remembering that it is not happening again now. You can also write about what is going through your mind at this moment."
+        },
+        {
+          "title": "Use third-person language",
+          "body": "Refer to yourself by name or a suitable third-person pronoun. Describe the person in the scene rather than repeatedly speaking as that past version of yourself."
+        },
+        {
+          "title": "Describe external actions",
+          "body": "Write what happened, what was said, and what the person did. Keep observations separate from guesses about someone else’s private motives."
+        },
+        {
+          "title": "Describe the inner experience",
+          "body": "Include thoughts, feelings, expectations, imagined images, and conclusions. For example, describe a part of the person’s mind predicting an outcome rather than presenting that prediction as fact."
+        },
+        {
+          "title": "Check your perspective",
+          "body": "Notice whether you can still observe the event from the present. If you feel overwhelmed or absorbed in reliving it, stop writing and take a break as the lesson directs."
+        },
+        {
+          "title": "Include resistance and practical adaptations",
+          "body": "If stuck, write about the reluctance or the demand to get it right. Start with a sentence if needed. The written lesson also offers third-person voice notes that you listen to later as an alternative."
+        },
+        {
+          "title": "Return with fresh eyes",
+          "body": "When useful and manageable, reread after a day or two and observe whether the viewpoint has changed. The lesson allows a fresh retelling, not a forced rewrite of history."
+        }
+      ],
+      "prompts": [
+        "What happened today that I can describe with a manageable emotional charge?",
+        "What did this person say or do, and what went on in their mind?",
+        "Which expectations or imagined images were present?",
+        "What is the part of my mind resisting this writing saying?",
+        "Can I still notice the present room and the act of writing about a memory?"
+      ],
+      "obstacles": [
+        {
+          "title": "This language feels strange",
+          "response": "The guide expects unfamiliarity because the practice changes a familiar way of referring to yourself. Begin small and describe the discomfort in the same third-person form."
+        },
+        {
+          "title": "I have too much or nothing to write",
+          "response": "Write about the part of the mind making that assessment. The source treats this as relevant present-moment material."
+        },
+        {
+          "title": "The memory becomes overwhelming",
+          "response": "The written lesson says to stop, close the journal or computer, and take a break. Return later to smaller, less charged material rather than forcing the exercise."
+        },
+        {
+          "title": "I cannot fit in a long session",
+          "response": "The guide values short attempts and the written lesson permits third-person voice notes followed by listening. Adapt the medium while preserving the observation practice."
+        }
+      ]
+    },
+    "stories": [
+      {
+        "title": "The arm that moves in imagination",
+        "kind": "Example",
+        "summary": "The lesson first invites noticing an actual small movement and its sensory feedback, then imagining a movement while the physical arm remains still. Gary uses the contrast to explore how imagination can generate an experience alongside present bodily information. He then connects this to recalling an event: a memory can feel emotionally present even while the observer is in a different place and time. The demonstration is meant to make the distinction experiential. It does not imply that all people visualize or feel imagined movement identically, or that a vivid recollection is a new occurrence of the original event.",
+        "lesson": "Notice the difference between present experience and the simulation you are observing.",
+        "sourceId": "SM1-034",
+        "locator": "Original pages 2–4"
+      },
+      {
+        "title": "Sarah and the blank journal",
+        "kind": "Example",
+        "summary": "The written lesson supplies a model entry about Sarah staring at a blank journal. One part wants immediate results; another confidently predicts the exercise will not work for her. Another part agrees and feels defeated before starting. Written in third person, these reactions become visible objects of inquiry. Sarah can ask how the confident voice knows the future or knows what the remaining course contains. The example turns apparent failure to begin into the exercise itself. It is a teaching vignette, not a verified case history or an instruction to label every doubt as false.",
+        "lesson": "Describe the resistance rather than waiting for resistance to disappear before practicing.",
+        "sourceId": "SM1-034",
+        "locator": "Original page 11"
+      }
+    ],
+    "storiesNote": "The written lesson labels itself a non-verbatim presentation of the principles. It also describes Gary rewriting past events from changed viewpoints and a client asked to write before retelling a charged childhood story.",
+    "cheatsheet": {
+      "principle": "Write about the experience from a present observer’s perspective.",
+      "remember": [
+        "Start with recent, manageable material.",
+        "Use your name or third-person pronouns.",
+        "Include both external events and inner thoughts and emotions.",
+        "Write about resistance if you are stuck.",
+        "Pause if observation becomes overwhelming reliving.",
+        "Short writing or later-listened-to voice notes are permitted adaptations."
+      ],
+      "try": "Write three sentences beginning with your name: what happened, what they thought, and what they felt.",
+      "watchFor": "Changing pronouns while remaining fully caught in the old argument or demanding a dramatic breakthrough.",
+      "question": "What tells you that you are observing a memory rather than absorbed inside its viewpoint?"
+    },
+    "quiz": [
+      {
+        "question": "What is the main purpose of third-person writing?",
+        "options": [
+          "To produce a polished biography",
+          "To practice an observer perspective toward experience",
+          "To prove that past events never occurred"
+        ],
+        "answer": 1,
+        "explanation": "The exercise changes perspective, not historical facts or the need for accurate description."
+      },
+      {
+        "question": "What should you do if writing becomes overwhelming reliving?",
+        "options": [
+          "Continue until all emotion disappears",
+          "Stop and take a break, then use more manageable material",
+          "Judge yourself for not being detached"
+        ],
+        "answer": 1,
+        "explanation": "The written lesson explicitly instructs pausing when you lose the observing perspective."
+      },
+      {
+        "question": "Which entry fits the practice?",
+        "options": [
+          "There was a part of Maya’s mind predicting she would do it wrong",
+          "I must write a perfect account before anything can change",
+          "Nothing counts unless I write for an hour"
+        ],
+        "answer": 0,
+        "explanation": "The entry describes a present thought from third person and can serve as writing about resistance."
+      }
+    ],
+    "reflection": [
+      "Which small event was easiest to observe in third person?",
+      "What changed when I included the inner experience as well as the outer event?",
+      "Which medium and duration made it realistic to practice again?"
+    ],
+    "sourceIds": [
+      "SM1-033",
+      "SM1-034"
+    ],
+    "coverageNote": "The main guide and written lesson ground this practice. The written lesson is explicitly non-verbatim and contains additional voice-note and rereading options. Supporting self-image and resistance videos remain available in the full reader; any exploration of another person’s viewpoint should be treated as imagination, not knowledge of their mind."
+  },
+  {
+    "id": "06",
+    "title": "Acceptance",
+    "eyebrow": "Acknowledge without adding another fight",
+    "overview": "Acceptance follows the third-person writing practice because increased awareness can bring discomfort and fresh self-criticism. This week gives you another response: acknowledge what is present and practice a more relaxed, non-rejecting attitude in the body. Gary defines acceptance as recognizing the current situation, not approving it forever or abandoning useful change. A word or phrase can support the practice, but the intended meaning and felt attitude matter more than the vocabulary. You can apply it to ordinary circumstances, mental chatter, emotions, and even the urge to criticize your progress. The central distinction is between observing a reaction and creating an additional reaction against it.",
+    "outcomes": [
+      "Explain the course’s distinction between acknowledgment and resignation.",
+      "Practice pairing a chosen phrase with attention to bodily tension.",
+      "Recognize when self-observation turns into another layer of self-criticism."
+    ],
+    "concepts": [
+      {
+        "title": "Acceptance is an active attitude",
+        "explanation": "The guide asks you to practice a relaxed feeling rather than merely repeat a concept. Notice the body, emotional tone, and meaning carried by your words. A phrase can sound peaceful or sarcastic depending on how it is expressed. The practice is therefore not a test of saying the correct sentence. In Gary’s framework, acceptance is a present acknowledgment accompanied by an attempt to release unnecessary resistance, while retaining the engagement needed for practical action.",
+        "sourceIds": [
+          "SM1-040",
+          "SM1-041"
+        ]
+      },
+      {
+        "title": "Acknowledgment is not approval forever",
+        "explanation": "The handout explicitly limits acceptance to where things are in this moment. It does not predict the future or require keeping the situation unchanged. You can acknowledge that a difficulty exists and still choose a boundary, a repair, or another action. This distinction also applies to yourself: accurately noticing your current state is different from declaring that it is all you can ever be. If the word acceptance implies hopelessness for you, the guide permits another word.",
+        "sourceIds": [
+          "SM1-040"
+        ]
+      },
+      {
+        "title": "Do not recruit criticism to eliminate criticism",
+        "explanation": "Gary describes a common loop: noticing judgment, then judging yourself for having a judgment. The second rejection repeats the attitude you meant to leave. Acceptance offers a different response to the inner critic: recognize that the thought is occurring without agreeing with it or attacking it. This is not praise for the critical message. It is an experiment in observing a mental event from outside its rejecting stance.",
+        "sourceIds": [
+          "SM1-041"
+        ]
+      },
+      {
+        "title": "The body is part of the practice",
+        "explanation": "The lesson’s demonstrations distinguish necessary muscular engagement from extra tension in the jaw, shoulders, abdomen, or other areas. Its ongoing assignment is to notice tension and invite relaxation where possible. Do not turn this into a command that every sensation must disappear. The study distinction is whether you can notice and soften some unnecessary bracing while remaining oriented to what the moment actually asks you to do.",
+        "sourceIds": [
+          "SM1-040",
+          "SM1-041"
+        ]
+      },
+      {
+        "title": "Reality and the imagined requirement",
+        "explanation": "The written lesson compares life as it is with the image of how it is supposed to be. Gary suggests that reacting against the discrepancy can add distress. This is a model for examining expectations, not an instruction to stop caring about improvement. You can name the imagined requirement and notice how you respond to it. A more accurate starting point may leave more room for purposeful action than repeatedly condemning the present for failing to match the picture.",
+        "sourceIds": [
+          "SM1-041"
+        ]
+      }
+    ],
+    "visual": {
+      "title": "Two responses to noticing a reaction",
+      "intro": "A study illustration of the course’s acceptance framework.",
+      "steps": [
+        {
+          "label": "Notice",
+          "detail": "A thought, emotion, or tension becomes visible."
+        },
+        {
+          "label": "Spot the added layer",
+          "detail": "The mind may criticize the fact that the reaction exists."
+        },
+        {
+          "label": "Acknowledge",
+          "detail": "Recognize what is happening now without making a permanent verdict."
+        },
+        {
+          "label": "Soften",
+          "detail": "Invite relaxation in areas that do not need to brace."
+        },
+        {
+          "label": "Choose",
+          "detail": "Keep any useful action or boundary while dropping an unnecessary extra fight."
+        }
+      ],
+      "takeaway": "Acceptance concerns your relationship to the present, not a promise to preserve it forever."
+    },
+    "practice": {
+      "title": "Practice relaxed acknowledgment",
+      "sourceIds": [
+        "SM1-040",
+        "SM1-041"
+      ],
+      "cadence": "The guide asks for practice multiple times every day, including when you are calm. The lesson gives various possible intervals and asks you to choose a workable rhythm rather than imposing one universal schedule.",
+      "steps": [
+        {
+          "title": "Read or listen to the lesson",
+          "body": "Pay attention to how the course defines acceptance and resistance. Distinguish the practice from any meaning of giving up that the word may already have for you."
+        },
+        {
+          "title": "Notice the current state",
+          "body": "At an ordinary pause, notice what is happening and what your body is doing. Look for unnecessary tightening without demanding an instant change."
+        },
+        {
+          "title": "Choose a phrase that fits the intent",
+          "body": "Use language of acknowledgment or present-moment acceptance. The guide permits alternatives to the word acceptance, provided the meaning is relaxed and non-rejecting."
+        },
+        {
+          "title": "Pair words with the body",
+          "body": "Let the phrase accompany an invitation to soften the jaw, shoulders, or another area you can comfortably relax. The aim is the attitude and felt practice, not mechanical repetition."
+        },
+        {
+          "title": "Include thoughts and emotions",
+          "body": "You can acknowledge that the mind is busy, that an emotion is here, or that a critical thought is occurring. Acknowledging its presence does not require believing its conclusion."
+        },
+        {
+          "title": "Keep useful action available",
+          "body": "Identify what can be addressed now and what cannot. The exercise does not ask you to stop an appropriate action; it asks whether extra rejection is being layered onto the present situation."
+        },
+        {
+          "title": "Write about resistance in third person",
+          "body": "If acceptance feels like defeat, describe the part of the mind making that interpretation and what consequences it predicts. This applies Week 5’s skill to Week 6’s obstacle."
+        },
+        {
+          "title": "Practice in calm moments too",
+          "body": "The guide recommends reinforcing the attitude before a difficult moment arrives. Notice what the practice is like without expecting immediate changes to a large belief."
+        }
+      ],
+      "prompts": [
+        "What can I accurately acknowledge about this moment?",
+        "Where do I notice unnecessary bracing or tension?",
+        "What phrase feels like acknowledgment rather than resignation?",
+        "What is the mind predicting would happen if I stopped fighting this moment?",
+        "What useful action can remain even while I soften the extra struggle?"
+      ],
+      "obstacles": [
+        {
+          "title": "Acceptance feels like giving up",
+          "response": "The guide defines it as acknowledging the current situation, making no commitment about its future. Write about the meaning your mind is attaching to the word."
+        },
+        {
+          "title": "I want to fix the reaction immediately",
+          "response": "Notice whether the urgency includes rejection. The practice asks you to observe that impulse and refrain from adding another automatic layer."
+        },
+        {
+          "title": "The words sound empty",
+          "response": "Attend to tone, bodily sensation, and meaning. Choose another phrase if needed; the guide prioritizes the relaxed attitude over a specific word."
+        },
+        {
+          "title": "I am judging the judging",
+          "response": "Make that second judgment another thing you acknowledge. The lesson’s central move is to avoid asking the critic to eradicate itself through more criticism."
+        }
+      ]
+    },
+    "stories": [
+      {
+        "title": "Leaning without every muscle bracing",
+        "kind": "Example",
+        "summary": "The written lesson uses a standing demonstration: leaning slightly changes the muscular work needed to balance, but other parts of the body may also tighten. Returning upright can leave some tension behind. Gary then distinguishes keeping the muscles needed for the action engaged from relaxing additional tension elsewhere. He uses this as an embodied illustration of acceptance: you can remain involved in an activity without bracing every part of yourself against it. This account describes the teaching example; the essential weekly practice is noticing and softening unnecessary tension during ordinary, comfortable moments.",
+        "lesson": "Engagement and relaxation can coexist; acceptance does not mean dropping all support or action.",
+        "sourceId": "SM1-041",
+        "locator": "Original pages 1–4"
+      },
+      {
+        "title": "The mantra Gary gave himself",
+        "kind": "Anecdote",
+        "summary": "Gary describes using prayer beads to repeatedly acknowledge life and himself as they were. He paired the words with attention to physical and emotional sensations. At that point, he says, a declaration of unconditional love felt beyond his reach; acknowledgment was a step he could actually practice. The story explains why the course does not require jumping immediately from criticism to a large ideal. Repeating a modest, credible expression provided an alternative to his familiar rejecting commentary. The beads were a practical reminder, not an essential object or prescribed ritual for every learner.",
+        "lesson": "Choose an honest next step you can practice rather than a grand state you feel obliged to claim.",
+        "sourceId": "SM1-041",
+        "locator": "Original pages 4–6"
+      }
+    ],
+    "storiesNote": "The written lesson also compares nonjudgmental appreciation of changing trees, flowers, and clouds with comparing ourselves to an imagined ideal.",
+    "cheatsheet": {
+      "principle": "Acknowledge the present and soften unnecessary resistance while keeping useful action.",
+      "remember": [
+        "Acceptance concerns this moment, not forever.",
+        "The intended feeling matters more than the chosen word.",
+        "Notice the body as well as inner dialogue.",
+        "Acknowledge criticism without believing or attacking it.",
+        "Practice when calm as well as when challenged.",
+        "Use third-person writing for objections to the exercise."
+      ],
+      "try": "Name what is here, soften one comfortable area of tension, and choose the next useful action.",
+      "watchFor": "Confusing acknowledgment with approval, hopelessness, or abandoning boundaries.",
+      "question": "How can acceptance and an intention to change coexist?"
+    },
+    "quiz": [
+      {
+        "question": "Which meaning fits the course’s definition of acceptance?",
+        "options": [
+          "This is happening now, and I can acknowledge it",
+          "This must stay the same forever",
+          "Everything that happened was acceptable behavior"
+        ],
+        "answer": 0,
+        "explanation": "The guide explicitly makes acceptance an acknowledgment of the present without claims about the future."
+      },
+      {
+        "question": "A critical thought appears. What response fits this week?",
+        "options": [
+          "Attack the thought until it stops",
+          "Notice that the thought is occurring and practice a non-rejecting stance",
+          "Assume the criticism must be true"
+        ],
+        "answer": 1,
+        "explanation": "The exercise avoids both believing the judgment and adding another layer of rejection."
+      },
+      {
+        "question": "May you use a word other than acceptance?",
+        "options": [
+          "No, the exact word is the mechanism",
+          "Yes, if the intent and feeling remain clear",
+          "Only after all tension disappears"
+        ],
+        "answer": 1,
+        "explanation": "The written guide permits alternatives such as acknowledgment and asks you to attend to meaning and feeling."
+      }
+    ],
+    "reflection": [
+      "What meaning did I initially attach to acceptance, and has it changed?",
+      "Where did I notice an extra reaction to a reaction?",
+      "What helped me combine a relaxed attitude with practical action?"
+    ],
+    "sourceIds": [
+      "SM1-040",
+      "SM1-041"
+    ],
+    "coverageNote": "The main guide and written lesson provide the practice, demonstrations, and anecdotes. Supporting videos address resistance and self-awareness versus self-judgment. Physiological explanations in the original are treated as the teacher’s framework rather than medical guidance."
+  },
+  {
+    "id": "07",
+    "title": "Characters",
+    "eyebrow": "Map the patterns you inhabit",
+    "overview": "Week 7 develops the observer perspective by mapping recurring attitudes as a cast of characters. Instead of treating every thought as the whole of you, notice patterns in speech, emotion, behavior, motives, and interpretation. Give them workable names and describe when they appear. The course’s Judge, Victim, Perfectionist, or Comedian are examples, not a required personality test. Your inventory is provisional and may include supportive or mixed characters. This practice extends and replaces the earlier journal format with more specific character-based observation. Continue acceptance so new discoveries become information rather than ammunition for self-criticism. The aim is greater awareness and choice, not a perfect taxonomy of your mind.",
+    "outcomes": [
+      "Create a provisional inventory of recurring attitudes and behavior patterns.",
+      "Describe a character’s words, emotions, contexts, and possible motives with evidence.",
+      "Use character-based third-person writing without turning the labels into fixed identities."
+    ],
+    "concepts": [
+      {
+        "title": "Characters are working descriptions",
+        "explanation": "Gary uses characters, masks, attitudes, and sub-personalities as overlapping ways of organizing patterns. A label is a tool for seeing repeated behavior, not a diagnosis or a permanent statement of what you are. You can rename, combine, or divide entries as your observations become clearer. The written guide emphasizes that hunting for the patterns develops observation even when you initially mislabel them. The usefulness of a name matters more than getting an official name right.",
+        "sourceIds": [
+          "SM1-047",
+          "SM1-048"
+        ]
+      },
+      {
+        "title": "Look in both inner and outer life",
+        "explanation": "A character may appear in private commentary, an imagined conversation, a meeting, family interactions, or how you present yourself socially. A recurring attitude can cross those settings. The inventory therefore includes both what you do outwardly and how you interpret events inwardly. Avoid assuming that a familiar role tells the whole story. A confident presentation may coexist with fear, or an entertaining role may carry both joy and a wish for approval.",
+        "sourceIds": [
+          "SM1-048"
+        ]
+      },
+      {
+        "title": "Separate the layers of a reaction",
+        "explanation": "Several attitudes can occur together or in rapid sequence. The lesson’s business-owner example includes feeling unappreciated, judging employees, and taking a commanding stance. Naming each layer makes a vague report such as feeling bad more specific. The purpose is to observe the different stories and emotions rather than decide which single label wins. This builds on the attention practice by making the point of view more detailed and easier to recognize.",
+        "sourceIds": [
+          "SM1-048"
+        ]
+      },
+      {
+        "title": "Include allies and mixed qualities",
+        "explanation": "The guide explicitly says not all characters are bad and encourages an inventory of allies. Determination, humor, care, or play can be helpful, while also carrying costs in particular situations. A pattern does not have to be eliminated everywhere to become more conscious. Ask what it contributes, what it protects, and whether you want it operating automatically in this context. The lesson’s emphasis is the ability to notice and choose rather than reject every personality expression.",
+        "sourceIds": [
+          "SM1-047",
+          "SM1-048"
+        ]
+      },
+      {
+        "title": "Let discovery lead to acceptance",
+        "explanation": "Character hunting can expose behavior you dislike. Gary asks you to continue acceptance and, if available, appreciation for having noticed. A reaction can reveal a previously hidden sequence, which makes it useful material. The guide also suggests writing about the character that worries the assignment is wrong or refuses to write. This applies the practice to its own resistance. It should not become a contest to uncover the most shameful label or to attack the parts you find.",
+        "sourceIds": [
+          "SM1-047",
+          "SM1-048"
+        ]
+      }
+    ],
+    "visual": {
+      "title": "Build a character profile",
+      "intro": "A study illustration of the course’s character inventory, using provisional descriptions rather than fixed personality categories.",
+      "steps": [
+        {
+          "label": "Context",
+          "detail": "Where and with whom does this attitude appear?"
+        },
+        {
+          "label": "Voice",
+          "detail": "What repeated words or arguments does it use?"
+        },
+        {
+          "label": "Emotion and body",
+          "detail": "What feelings and posture accompany it?"
+        },
+        {
+          "label": "Purpose",
+          "detail": "What does it seem to seek, avoid, or protect?"
+        },
+        {
+          "label": "Choice",
+          "detail": "Where is this pattern useful, and where would you prefer another response?"
+        }
+      ],
+      "takeaway": "A character name is the heading of an observation, not a verdict about your identity."
+    },
+    "practice": {
+      "title": "Inventory your cast and journal its activity",
+      "sourceIds": [
+        "SM1-047",
+        "SM1-048"
+      ],
+      "cadence": "Build and revise the inventory as patterns appear, and use character-based journal writing each day. The sources offer different illustrative inventory sizes; keep it manageable rather than treating a number as a completion requirement.",
+      "steps": [
+        {
+          "title": "Study the character lesson",
+          "body": "Notice how Gary distinguishes the observer from temporary attitudes or masks. Continue the acceptance practice as you look at patterns you may dislike."
+        },
+        {
+          "title": "Review recent writing",
+          "body": "Look back at third-person entries for recurring emotions, viewpoints, phrases, or behavior. You can also begin with a current ordinary interaction."
+        },
+        {
+          "title": "Give a pattern a provisional name",
+          "body": "Use a name that makes it recognizable without turning it into an insult. Your own description is allowed; the course does not require a fixed list."
+        },
+        {
+          "title": "Describe its profile",
+          "body": "Write where it appears, what it says, what it feels, how it acts, and any motivation you can reasonably infer. Mark uncertain motives as hypotheses rather than facts."
+        },
+        {
+          "title": "Look for combinations",
+          "body": "Notice whether another character responds to or hides behind the first. Describe the sequence and separate the emotions instead of forcing one label onto the entire experience."
+        },
+        {
+          "title": "Include supportive patterns",
+          "body": "List allies or useful aspects as well. A character may help in one setting and hinder in another; note both where the evidence supports it."
+        },
+        {
+          "title": "Write the day through the cast",
+          "body": "Continue third-person writing, now attributing specific thoughts, attitudes, or actions to the patterns you noticed. If a label is unclear, make a tentative guess and revise later."
+        },
+        {
+          "title": "Revise without grading",
+          "body": "Merge entries if the inventory becomes overwhelming. Change names as understanding develops. The objective is clearer observation and more choice, not a final map that never changes."
+        }
+      ],
+      "prompts": [
+        "What recurring attitude did I notice, and what tentative name fits?",
+        "What exact thought, action, or emotion is evidence for this pattern?",
+        "Where else does it appear in my life?",
+        "What might it be trying to obtain, avoid, or protect?",
+        "What is useful about it, and where do I want more choice?"
+      ],
+      "obstacles": [
+        {
+          "title": "I cannot name the characters correctly",
+          "response": "The guide says labels can be guesses and changed later. Describe concrete observations first; an imperfect label does not cancel the observer practice."
+        },
+        {
+          "title": "There seem to be hundreds",
+          "response": "Group recurring attitudes and emotions into a manageable set. The sources suggest combining similar patterns rather than assigning a separate character to every thought."
+        },
+        {
+          "title": "I am judging what I find",
+          "response": "Apply acceptance to the discovery and notice the criticizing character too. This assignment is an inventory, not a condemnation."
+        },
+        {
+          "title": "I worry about privacy",
+          "response": "The guide recognizes that the writing may be personal and permits a place that feels appropriately private. Choose what you record and where you keep it."
+        }
+      ]
+    },
+    "stories": [
+      {
+        "title": "The business owner and the King",
+        "kind": "Anecdote",
+        "summary": "A client running a business identified a character he called the King. It provided for employees and cared about their livelihoods, but it also wanted its word to be final and disliked disagreement. Writing about the King revealed more layers: a hurt attitude felt unappreciated, while a judging attitude condemned the employees’ lack of gratitude. The commanding response was therefore not a single simple emotion. Gary uses this example to show how several masks can support one another within a reaction, and how a pattern can contain both beneficial and costly qualities.",
+        "lesson": "Describe the layers beneath an attitude rather than reducing it to one flattering or condemning label.",
+        "sourceId": "SM1-048",
+        "locator": "Original pages 5–6"
+      },
+      {
+        "title": "Covert Girl across different settings",
+        "kind": "Anecdote",
+        "summary": "Another client, a vice president, named a pattern Covert Girl because part of her wanted to stay unnoticed despite a prominent professional role. She found similar behavior in family, social, and romantic situations. Once she recognized the recurring pattern, she could consider where discretion served her and where hiding did not. Gary stresses that the pattern was not universally good or bad. Identifying it made a contextual choice possible. The example illustrates why character work looks across situations rather than treating every interaction as an isolated problem.",
+        "lesson": "Seeing a pattern creates room to choose its use instead of condemning it everywhere.",
+        "sourceId": "SM1-048",
+        "locator": "Original page 8"
+      }
+    ],
+    "storiesNote": "The lesson also uses children seeking candy, the playful or approval-seeking Comedian, and a theatrical cast list as examples of how patterns develop and can be described.",
+    "cheatsheet": {
+      "principle": "Name recurring attitudes so you can observe them without treating them as your whole identity.",
+      "remember": [
+        "Use evidence: words, emotions, actions, settings.",
+        "Names are provisional and can change.",
+        "Look in inner dialogue and outward behavior.",
+        "Several characters can be active together.",
+        "Include allies and mixed qualities.",
+        "Continue acceptance as you discover uncomfortable patterns."
+      ],
+      "try": "Make one profile: name / usual phrase / emotion / context / possible purpose / useful or costly effects.",
+      "watchFor": "Turning a helpful organizing label into a diagnosis, insult, or permanent identity.",
+      "question": "What is the difference between describing a pattern and declaring who you are?"
+    },
+    "quiz": [
+      {
+        "question": "You later decide two characters are really one pattern. What should you do?",
+        "options": [
+          "Keep the original list forever",
+          "Revise or merge the entries",
+          "Start the entire course again"
+        ],
+        "answer": 1,
+        "explanation": "The guide treats the inventory as a first draft that evolves with awareness."
+      },
+      {
+        "question": "Should the inventory include supportive qualities?",
+        "options": [
+          "Yes, allies and mixed patterns are included",
+          "No, only harmful traits count",
+          "Only if they never have drawbacks"
+        ],
+        "answer": 0,
+        "explanation": "The guide explicitly invites ally characters and the lesson explores mixed qualities."
+      },
+      {
+        "question": "Why does Gary describe the King, Judge, and Victim within one reaction?",
+        "options": [
+          "To require three labels for everyone",
+          "To show that several attitudes and emotions can be layered",
+          "To identify a clinical disorder"
+        ],
+        "answer": 1,
+        "explanation": "The story makes a complex reaction more observable by separating its components."
+      }
+    ],
+    "reflection": [
+      "Which label helped me notice a pattern more quickly?",
+      "Where did the same attitude appear in more than one setting?",
+      "What supportive quality or choice became more visible?"
+    ],
+    "sourceIds": [
+      "SM1-047",
+      "SM1-048"
+    ],
+    "coverageNote": "The main guide suggests roughly 12–20 characters as one manageable range, while the written lesson suggests roughly 6–12. Both emphasize flexibility over numerical accuracy. Supporting videos expand on allies, resistance, and the course’s meaning of ego; full texts remain available."
+  },
+  {
+    "id": "08",
+    "title": "Trigger Words",
+    "eyebrow": "Make language more precise",
+    "overview": "Week 8 uses familiar words as cues to uncover the attitudes and beliefs carried in everyday language. The assignment temporarily sets aside words such as should, wrong, and better, then asks you to express the underlying observation or preference more precisely. Gary connects the practice to the character inventory: which part of the mind uses the word, what emotion accompanies it, and what picture or judgment does it create? This is not a permanent ban on ordinary vocabulary. The point is to interrupt automatic meanings, especially self-condemnation and absolute-sounding comparisons, while retaining clear assessment of actions, consequences, preferences, and needs.",
+    "outcomes": [
+      "Recognize the course’s trigger-word pairs in thought and speech.",
+      "Rephrase an assessment to specify preference, criteria, action, or outcome.",
+      "Connect a charged phrase to a character, attitude, and emotion without judging the slip."
+    ],
+    "concepts": [
+      {
+        "title": "A word can carry a whole scene",
+        "explanation": "The lesson begins with ordinary words such as rose and sailboat, which may evoke an image and a feeling. Charged terms can call up a much larger collection of associations, memories, judgments, and perspectives. Gary uses this to explain why apparently small changes in language can matter. The practice is not based on words having magical power; it asks you to observe the meaning and emotional structure you supply when you hear, think, or use them.",
+        "sourceIds": [
+          "SM1-054"
+        ]
+      },
+      {
+        "title": "The temporary trigger list",
+        "explanation": "The main list is should/shouldn’t; supposed to/not supposed to; good/bad; right/wrong; good/evil; better/worse; best/worst. Gary calls them banned words for the exercise because they often support comparison and condemnation in the Judge and Victim framework. Begin with the supplied list before expanding it. Catching a word is an opportunity to investigate its use, not a new offense. Context and intended meaning still matter, including ordinary directional uses of right.",
+        "sourceIds": [
+          "SM1-055",
+          "SM1-054"
+        ]
+      },
+      {
+        "title": "Assessment without a verdict on worth",
+        "explanation": "An action can fail to produce an intended result without becoming proof that the person is worthless. The lesson encourages describing the action and outcome more precisely. Similarly, an enjoyable flavor can be your preference without being objectively best for everyone. This does not abolish discernment or consequences. It separates a useful assessment from the added value judgment about yourself or someone else that familiar shorthand can carry.",
+        "sourceIds": [
+          "SM1-054"
+        ]
+      },
+      {
+        "title": "Name the criteria behind comparisons",
+        "explanation": "Words such as better or right may hide the standard being used. A route can be quicker, more scenic, or more consistent with a map; those criteria can point toward different choices. Making the standard explicit improves the description and exposes assumptions. This extends Finding Neutral: you can express a viewpoint while acknowledging that it is a viewpoint. The study question is not whether comparisons are forbidden, but what they actually mean in this situation.",
+        "sourceIds": [
+          "SM1-054"
+        ]
+      },
+      {
+        "title": "Use the word as a doorway to the character",
+        "explanation": "The main practice asks you to record which character used a charged word and what emotion or attitude came with it. This joins the earlier skills: attention catches the phrase, the observer notices the pattern, skepticism questions its implied truth, and character writing supplies detail. If you discover it only after writing, the guide permits reviewing and editing the entry. The point is to make the automatic structure visible rather than police every syllable.",
+        "sourceIds": [
+          "SM1-055"
+        ]
+      },
+      {
+        "title": "Do not make the exercise another accusation",
+        "explanation": "The lesson opens by showing how ideals such as doing your best can become impossible standards used for self-criticism. The same trap can occur with trigger words: condemning yourself for saying should recreates the pattern. The guide allows exceptions, a workable scope, and later reclaiming words with clearer meanings. Rephrase the thought and learn from the moment. A sincere attempt to speak more precisely serves the assignment better than rigid linguistic purity.",
+        "sourceIds": [
+          "SM1-054",
+          "SM1-055"
+        ]
+      }
+    ],
+    "visual": {
+      "title": "From charged shorthand to a clear account",
+      "intro": "A study illustration of the course’s trigger-word practice.",
+      "steps": [
+        {
+          "label": "Catch the word",
+          "detail": "Notice a listed term in thought or speech."
+        },
+        {
+          "label": "Find the package",
+          "detail": "Identify the image, attitude, emotion, or character that comes with it."
+        },
+        {
+          "label": "Clarify the meaning",
+          "detail": "Ask whether it describes a preference, expectation, action, result, or criterion."
+        },
+        {
+          "label": "Rephrase",
+          "detail": "Say what you mean without the automatic value verdict."
+        },
+        {
+          "label": "Record the pattern",
+          "detail": "Journal the original phrase, the clearer account, and what you noticed."
+        }
+      ],
+      "takeaway": "Keep the useful information while examining the added condemnation or absolute claim."
+    },
+    "practice": {
+      "title": "Notice, rephrase, and journal trigger words",
+      "sourceIds": [
+        "SM1-055",
+        "SM1-054"
+      ],
+      "cadence": "Watch thought and speech during the day and continue character-based journaling. The practice is temporary and adaptable; the guide permits exceptions and does not require a permanent ban or a flawless first week.",
+      "steps": [
+        {
+          "title": "Learn the starting list",
+          "body": "Use should/shouldn’t, supposed to/not supposed to, good/bad, right/wrong, good/evil, better/worse, and best/worst as observation cues."
+        },
+        {
+          "title": "Catch an actual use",
+          "body": "Notice a phrase you spoke or thought. If you recognize it afterward, use that example rather than waiting for perfect awareness in the moment."
+        },
+        {
+          "title": "Identify the attitude",
+          "body": "Describe the emotion, image, and character associated with the phrase. Is it comparing, condemning, fearing, prescribing, or simply describing a practical direction? Do not assume every use has the same meaning."
+        },
+        {
+          "title": "Find the information you need",
+          "body": "Ask what the statement is trying to communicate. It might concern an outcome, personal preference, expectation, consequence, or practical criterion."
+        },
+        {
+          "title": "Rephrase clearly",
+          "body": "Express that information more specifically. Instead of a global verdict, describe what the action produced, what you prefer, or what you now intend to do differently."
+        },
+        {
+          "title": "Keep character writing going",
+          "body": "Record the phrase, the character using it, its attitude, and any reacting character. You can first write an account and then revise it with these details if you did not see them live."
+        },
+        {
+          "title": "Set a workable scope",
+          "body": "The guide permits limits and exceptions. A directional right turn is different from a moral verdict, and later conscious use is allowed. The purpose is to interrupt automatic meaning, not to erase ordinary communication."
+        },
+        {
+          "title": "Apply the lesson to mistakes",
+          "body": "If the mind criticizes your use of a trigger word, catch that phrase too. Treat it as another useful observation and make a clearer attempt."
+        }
+      ],
+      "prompts": [
+        "What exact trigger word or phrase did I use?",
+        "What character, emotion, or image accompanied it?",
+        "What did I actually mean: a preference, outcome, expectation, or criterion?",
+        "How can I express that meaning without a global verdict on worth?",
+        "What did I notice after rephrasing, including if nothing changed?"
+      ],
+      "obstacles": [
+        {
+          "title": "I keep using the words",
+          "response": "The written lesson expects entrenched language to continue appearing. Catching and rephrasing it is the practice, not evidence that the assignment has failed."
+        },
+        {
+          "title": "I think the rule means never using these words again",
+          "response": "The main guide explicitly allows exceptions and later conscious use. Its target is automatic emotional meaning, not a permanent vocabulary prohibition."
+        },
+        {
+          "title": "Rephrasing feels cumbersome",
+          "response": "The lesson acknowledges that precision can take more words. Identify the useful assessment and separate it from the added condemnation."
+        },
+        {
+          "title": "I am criticizing myself for saying should",
+          "response": "That criticism is another example to notice. Rephrase without turning the assignment into a new demand for perfection."
+        }
+      ]
+    },
+    "stories": [
+      {
+        "title": "Thirty-one flavors and the best ice cream",
+        "kind": "Example",
+        "summary": "Gary contrasts calling chocolate-chip the best ice cream with explaining that it is the flavor you most enjoy. Someone else prefers cookies and cream. The existence of many flavors makes sense because preferences differ. The lesson uses this ordinary choice to reveal the extra claim in a universal superlative: your enjoyment does not establish a rule for everyone. A more precise statement can communicate the same enthusiasm without ranking other people’s preferences as mistaken. The example supports both the trigger-word exercise and the earlier practice of identifying your point of view.",
+        "lesson": "Express a preference as a preference rather than disguising it as an absolute ranking.",
+        "sourceId": "SM1-054",
+        "locator": "Original page 5"
+      },
+      {
+        "title": "The missed turn and the hidden criterion",
+        "kind": "Anecdote",
+        "summary": "A client driving to a new town with his wife missed a turn and noticed the language of should and right in their discussion. Gary explores what would make an exit right: following the map, avoiding construction, arriving sooner, or enjoying a scenic route. A different criterion can reverse the verdict. The example does not say that all routes are equally useful. It asks the speaker to identify what the comparison is measuring. Once the criteria are visible, the situation can be assessed without automatically converting a navigation choice into condemnation of the driver.",
+        "lesson": "Ask “according to what criterion?” before turning an outcome into a verdict about a person.",
+        "sourceId": "SM1-054",
+        "locator": "Original pages 7–8"
+      },
+      {
+        "title": "A field beyond the dividing verdicts",
+        "kind": "Metaphor",
+        "summary": "The lesson refers to Rumi’s poetic image of meeting beyond right-doing and wrong-doing. Gary interprets that field as a possibility of love beyond the mind’s habitual divisions. In this week, the image supports his invitation to loosen the Judge’s language of superiority, inferiority, and rejection. It is presented here as Gary’s use of the poetic image, not as a verified translation or a claim that actions have no consequences. The practical connection is to make room for respectful understanding while examining the verdicts that language carries.",
+        "lesson": "Question the condemning division while retaining clear attention to actions and their effects.",
+        "sourceId": "SM1-054",
+        "locator": "Original page 8"
+      }
+    ],
+    "storiesNote": "The lesson also uses the rose and sailboat as word-to-image demonstrations and draws on a symbolic reading of Adam and Eve to discuss divisions of good and evil.",
+    "cheatsheet": {
+      "principle": "Catch charged shorthand, identify its meaning, and say it more precisely.",
+      "remember": [
+        "Start with the listed pairs rather than inventing an endless ban.",
+        "Track the character and emotion using the word.",
+        "Specify preference, criteria, action, and outcome.",
+        "Assess behavior without making a global verdict on worth.",
+        "Directional right is not the same as judgmental right.",
+        "The exercise permits exceptions and later conscious use."
+      ],
+      "try": "Take one “I should…” sentence and rewrite the actual intention, consequence, or preference it contains.",
+      "watchFor": "Making language purity another standard for self-attack or assuming the exercise abolishes practical judgment.",
+      "question": "What information do you want to retain when you remove the word wrong from an assessment?"
+    },
+    "quiz": [
+      {
+        "question": "Which rephrase most closely follows the lesson?",
+        "options": [
+          "I am wrong and should feel bad",
+          "That action did not produce the result I intended",
+          "Nothing can ever be evaluated"
+        ],
+        "answer": 1,
+        "explanation": "The lesson retains the assessment of the action and outcome while questioning a global value verdict."
+      },
+      {
+        "question": "What is useful to record after catching a trigger word?",
+        "options": [
+          "Only the number of times you failed",
+          "The character, attitude, emotion, and clearer wording",
+          "A list of people who use worse language"
+        ],
+        "answer": 1,
+        "explanation": "The main guide explicitly joins trigger-word observation to character-based journaling."
+      },
+      {
+        "question": "What does the missed-turn story illustrate?",
+        "options": [
+          "There is never a useful route",
+          "Right or better may depend on unspoken criteria",
+          "Maps should never be followed"
+        ],
+        "answer": 1,
+        "explanation": "The lesson contrasts map accuracy, travel time, and scenery to expose the comparison’s assumptions."
+      }
+    ],
+    "reflection": [
+      "Which word most reliably revealed a recurring attitude?",
+      "Where did a precise description communicate more clearly than the familiar shorthand?",
+      "How can I continue without turning the practice into rigid self-policing?"
+    ],
+    "sourceIds": [
+      "SM1-054",
+      "SM1-055"
+    ],
+    "coverageNote": "The main guide and written lesson provide the word list, exceptions, exercises, and stories. Supporting videos extend the investigation into reactions and the relationship among language, imagery, attention, and perspective. Religious and poetic references are identified as the lesson’s interpretations."
+  }
+]
